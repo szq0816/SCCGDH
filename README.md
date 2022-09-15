@@ -1,5 +1,6 @@
 # SCCGDH
-The source code of “SCCGDH” 
+The source code of “SCCGDH”.
+
 If you have any questions, please do not hesitate to contact Yibing.
 # Datasets
 We used three cross-modal datasets for experiments.datasets are available by the following link:
